@@ -40,3 +40,16 @@
     Build and run the app then it will automatically be installed in your mobile.
   </li>
 </ol>
+<h2>Usage</h2>
+<p>To use the Login App, follow these instructions:</p>
+<ol>
+  <li>
+    <b>Sign Up:</b> If you are a new user, tap on the "Sign Up" button on the login screen to create a new account. Fill in the required information and submit the form.
+  </li>
+  <li>
+    <b>Log In:</b> If you already have an account, enter your email and password on the login screen and tap the "Log In" button.
+  </li>
+  <li>
+    <b>Dashboard:</b> After successfully logging in, you will be directed to the dashboard screen where you can access the app's features.
+  </li>
+</ol>
