@@ -5,4 +5,13 @@
   <li>
     <b>User Authentication:</b> Users can create an account or log in using their existing credentials.
   </li>
+  <li>
+    <b>Password Encryption:</b> User passwords are securely encrypted before storing them in the database.
+  </li>
+  <li>
+    <b>Error Handling:</b> Provides appropriate error messages for invalid login attempts or other issues.
+  </li>
+  <li>
+    <b>Session Management:</b> The app manages user sessions to keep users logged in until they choose to log out.
+  </li>
 </ul>
