@@ -31,6 +31,7 @@
     Dowload the android studio.
   </li>
   <li>
+    <a href="https://github.com/Dithinvijay/LoginApp/archive/refs/heads/master.zip">Click Here to direct download</a> Or
     Download the zip file from the repository
   </li>
   <li>
