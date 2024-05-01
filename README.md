@@ -24,3 +24,19 @@
 ![IMG_20240430_205337](https://github.com/Dithinvijay/LoginApp/assets/123413489/d236ae64-3918-46d5-97af-879246bfebc5)
 ![IMG_20240430_205329](https://github.com/Dithinvijay/LoginApp/assets/123413489/bba0542a-b498-44c1-92aa-e3000cbce627)
 
+<h2>Installation</h2>
+<p>To install the Login App, follow these steps:</p>
+<ol>
+  <li>
+    Dowload the android studio.
+  </li>
+  <li>
+    Download the zip file from the repository
+  </li>
+  <li>
+    Open the file in the android studio.
+  </li>
+  <li>
+    Build and run the app then it will automatically be installed in your mobile.
+  </li>
+</ol>
