@@ -15,3 +15,4 @@
     <b>Session Management:</b> The app manages user sessions to keep users logged in until they choose to log out.
   </li>
 </ul>
+<h2>Screenshots</h2>
